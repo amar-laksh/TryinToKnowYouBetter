@@ -30,7 +30,7 @@ Now We have these EPIC people of Agra here in our list.
 
 # Step 3:
 
-With a little help of python let's automagicall get this:
+With a little help of python let's automagically get this:
 
 ![step3](step3.png)
 
